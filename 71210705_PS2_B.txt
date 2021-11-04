@@ -1,0 +1,9 @@
+kapasitas gelas kosong A=1000L 
+kapasitas gelas kosong B=700L 
+kapasitas gelas kosong C=300L 
+kapasitas gelas kosong D=100L 
+ada lubang ditengah pada tiap gelas A,B,C, dan C 
+dari gelas A ke B mengalir sebanyak 500L dengan sisa 500L di gelas A 
+dari gelas B ke C mengalir sebanyak 150L dengan sisa 350L di gelas B 
+dari gelas C ke D tidak dapat mengalirkan air kareng setengah kapasitas dari gelas c adalah 150 
+dan air yang diterima dari gelas b hanya 150L
