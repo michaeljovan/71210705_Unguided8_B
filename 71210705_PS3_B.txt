@@ -1,0 +1,35 @@
+Hx = 
+
+1. X.ADD_RIGHT
+2. X.ADD_DOWN 
+3. X.ADD_RIGHT 
+4. X.ADD_DOWN 
+5. X.ADD_DOWN 
+6. X.ADD_RIGHT 
+7. X.ADD_DOWN 
+8.  X.DIE 
+9.  X.DIE 
+10. X.DIE 
+11. X.DIE 
+12. X.DIE 
+13 .X.DIE
+14. X.DIE 
+
+Hy = 
+
+1. X.ADD_UP 
+2. X.ADD_LEFT 
+3. X.ADD_LEFT 
+4. X.ADD_UP 
+5. X.ADD_UP 
+6. X.ADD_LEFT 
+7. X.ADD_LEFT 
+8. X.DIE 
+9. X.DIE 
+10. X.DIE 
+11. X.DIE 
+12. X.DIE
+13. X.DIE
+14. X.DIE
+
+
